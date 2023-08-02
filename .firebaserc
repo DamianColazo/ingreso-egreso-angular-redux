@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "ingreso-egreso-app-52173",
+    "ingreso-egreso-app": "ingreso-egreso-app-52173"
+  },
+  "targets": {
+    "ingreso-egreso-app-52173": {
+      "hosting": {
+        "ingreso-egreso-app": [
+          "ingreso-egreso-app-52173"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

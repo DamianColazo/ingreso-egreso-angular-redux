@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "ingreso-egreso-app",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
